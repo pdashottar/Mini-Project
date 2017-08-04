@@ -8,8 +8,8 @@ The main file which starts execution is mini_p.c, modular approach is taken care
 
 Sample Input and Outputs are given below -
 
-(a+b)*(a+c) -> a+b*c
-(a+c)(a*d+a*~d)+a*c+c -> a+c
-a*~b*d + a*~b*~d -> a*~b
+1) (a+b)*(a+c) -> a+b*c
+2) (a+c)(a*d+a*~d)+a*c+c -> a+c
+3) a*~b*d + a*~b*~d -> a*~b
 
 For more information, a project report is also attached.
