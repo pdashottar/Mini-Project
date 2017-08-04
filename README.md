@@ -6,7 +6,7 @@ I have implemented Quine-McCluskey method to minimize Boolean expressions in C a
 
 The main file which starts execution is mini_p.c, modular approach is taken care by linking rest other files with the main file.
 
-Sample Input and Outputs are given below -
+Sample Inputs and Outputs are given below -
 
 1) (a+b)*(a+c) -> a+b*c
 2) (a+c)(a*d+a*~d)+a*c+c -> a+c
